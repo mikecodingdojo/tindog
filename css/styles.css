@@ -1,6 +1,7 @@
 body {
     font-family: "montserrat";
     background-color: #fce8eb;
+    scroll-behavior: smooth;
 }
 
 #title {
